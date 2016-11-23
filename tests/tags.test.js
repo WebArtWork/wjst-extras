@@ -1,4 +1,4 @@
-var swig = require('swig'),
+var swig = require('swig-templates'),
   expect = require('expect.js'),
   extras = require('../');
 
